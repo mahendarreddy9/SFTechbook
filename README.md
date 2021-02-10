@@ -1,2 +1,2 @@
 # SFTechbook
-This is sample salesforce techbook repository
+This is sample salesforce techbook repository.
