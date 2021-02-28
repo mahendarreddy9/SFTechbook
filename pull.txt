@@ -1,0 +1,1 @@
+check of pull request command apart from fetch and merge
